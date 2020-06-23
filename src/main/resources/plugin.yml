@@ -1,0 +1,10 @@
+name: Fishy
+version: ${project.version}
+main: net.lsrx7.fishy.Fishy
+authors: [lsrx7]
+description: Fishy
+
+commands:
+  fish:
+    description: A weird fish command?
+    usage: /fish
